@@ -14,7 +14,7 @@
     Date(s) Tested  : 2025-06-10
     Tested By       : F Esguerra
     Systems Tested  : Windows Server 2019 Datacenter, Build 1809
-    PowerShell Ver. : 5.1.17763.6189
+    PowerShell Ver. : 5.1.17763.7309
 
 .USAGE
     Set [$makeSecure = $true] to secure the system
