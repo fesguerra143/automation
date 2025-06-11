@@ -31,7 +31,7 @@ echo "Rebooting system to apply changes..."
 sudo reboot
 
 # Download the script
-# wget https://raw.githubusercontent.com/joshmadakor1/lognpacific-public/main/automation/remediation-openssl-3.0.5-install.sh --no-check-certificate
+# wget https://github.com/fesguerra143/automation/blob/c4fecbc46c18e6a713b07a668d961ebaf70a7000/remediation-openssl-3.0.5-install.sh  --no-check-certificate
 
 # Make the script executable:
 # chmod +x remediation-openssl-3.0.5-install.sh
